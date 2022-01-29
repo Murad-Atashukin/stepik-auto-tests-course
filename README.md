@@ -1,4 +1,3 @@
 # stepik-auto-tests-course
 Stepik_homework
-фи янэр зыф1эту !!!!
-хычын аша охъде жа ша 
+#курс по автоматизации https://stepik.org/lesson/187065/step/7?unit=161976
